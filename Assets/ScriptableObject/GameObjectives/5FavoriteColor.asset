@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a4548127de3fda488357477f17fd110, type: 3}
+  m_Name: 5FavoriteColor
+  m_EditorClassIdentifier: 
+  nextObjective: {fileID: 11400000, guid: b83ba7c1687af5f43bfe994ba261380e, type: 2}
+  morseVerbs:
+  - {fileID: 11400000, guid: 9841cc8dd531bf64fbfa4e06ebb9342b, type: 2}
+  audioClip: {fileID: 8300000, guid: 8edd2b8ebdfc6974e871af1e37400b3b, type: 3}
+  objectiveText: Tell Bob your favorite color

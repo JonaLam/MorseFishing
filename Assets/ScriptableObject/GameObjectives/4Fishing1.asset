@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0461ded54689684e979b071eb3649ac, type: 3}
+  m_Name: 4Fishing1
+  m_EditorClassIdentifier: 
+  nextObjective: {fileID: 11400000, guid: d8ca41fd9a71d0842b326b94529eb184, type: 2}
+  fish:
+  - fish: {fileID: 11400000, guid: 39811f94fadce684db34ce0ad7209d0e, type: 2}
+    amount: 2
+  morseVerbs:
+  - {fileID: 11400000, guid: 647054eb324495c45aac305ed01e5af4, type: 2}
+  autoAttack: 1
+  spawnFish: 0
+  audioClip: {fileID: 8300000, guid: a680c8235f94abd498875e9a9091b1eb, type: 3}
+  starFishAmount: 2
+  finalFish: 0
